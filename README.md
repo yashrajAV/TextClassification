@@ -22,3 +22,6 @@ To make prediction on a new review `Its the worst app ever I save my design lts 
 ```buildoutcfg
 python predict.py --test_complaint "I was looking through my report and noticed a vehicle that I returned to the dealership where it's reporting completely incorrect. I had the opportunity to talk to several lawmakers and friends, and learned some basic laws in regards to voluntary or repossession of a vehicle. Under the laws of MASS and UCC 9.506 as well as State RISA and MVISA statutes, a deficiency can not be claimed unless all of the required notices were properly and timely given, and all of the allowable redemption and cure time limits were adhered to. PLEASE HAVE THEM IMMEDIATELY REMOVE"
 ```
+
+![Alt text][image](https://user-images.githubusercontent.com/51510762/204123215-f81cff75-0fad-46f5-80c1-9b73b0c08ea4.png)
+
